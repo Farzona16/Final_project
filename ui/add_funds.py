@@ -1,4 +1,4 @@
-import customtkinter as ctk
+import customtkinter as ctk 
 from models.card import get_cards
 from models.transaction import add_transaction
 
